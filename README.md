@@ -9,7 +9,7 @@ Na Slovensku prebieha už 10 rokov medzinárodná informatická súťaž iBobor,
 Kľúčové slová: kognitívna náročnosť, rozhodovacie stromy, datamining, ID3, CHAID
 
 Tento repozitár obsahuje:
-celú prácu vo formáte .pdf :bakalarka.pdf \n
+celú prácu vo formáte .pdf :bakalarka.pdf /n
 proces modelovania rozhodovacieho stromu pre algorimty ID3 a CHAID aj s určením presnosti predikcie Rozhodovací_stromCHAID.rmp , Rozhodovací_stromID3.rmp \n
 program na výpočet entropie, informačného zisku a podielu zisku v jazyku python informationGain.py \n
 kompletná trénovacia množina dát z rokov 2012-2018 v tabuľke .xls VstupneData.xls \n
